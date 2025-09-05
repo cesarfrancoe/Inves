@@ -123,15 +123,7 @@ El texto debe cerrar con una **pregunta de investigación clara, específica y a
 Es fundamental utilizar **fuentes académicas confiables**, como artículos científicos, informes técnicos, libros especializados y bases de datos reconocidas. Además, se debe priorizar la **vigencia** de las fuentes: idealmente publicadas entre 2020 y la fecha actual.
 
 > Ejemplo: Según un estudio publicado en *Sensors* (González et al., 2022), el uso de sensores IoT en agricultura ha incrementado la eficiencia en más de un 30 % en regiones de América Latina.
-
-### Redacta con precisión y claridad
-
-Si durante la redacción surgen ambigüedades, contradicciones o afirmaciones vagas, estas deben ser revisadas y reformuladas como **explicaciones claras, precisas y argumentadas**. El planteamiento del problema debe ser comprensible para un lector con formación técnica, pero sin necesidad de conocimientos especializados en el tema específico.
-
-Perfecto. A continuación te presento la **Sección 4 reescrita** de la guía, con cada nivel del embudo invertido acompañado de un **ejemplo integrado** sobre el tema:
-**“Implementación de sensores IoT para el monitoreo de calidad del aire en entornos escolares urbanos”**.
-
-La redacción se mantiene en **tono académico**, con **clave negativa**, conectores lógicos, sin enumeraciones internas ni subtítulos visibles dentro del texto. Los ejemplos están incorporados como párrafos modelo para que los estudiantes comprendan cómo deben escribir.
+> 
 
 ## 4. ESTRUCTURA DEL PLANTEAMIENTO DEL PROBLEMA (ENFOQUE DE EMBUDO INVERTIDO)
 
@@ -177,4 +169,71 @@ En esta parte debe evidenciarse la brecha de conocimiento o desarrollo tecnológ
 Este es el núcleo del planteamiento. Aquí debe aparecer claramente el problema específico que se abordará, junto con tres elementos clave: la **motivación o interpretación del autor**, la **pregunta de investigación** y una **hipótesis fundamentada**.
 
 > Durante una estancia en el colegio X, ubicado en una zona de alta contaminación vehicular, se observó que los docentes desconocen los niveles reales de calidad del aire al interior de las aulas, lo que impide tomar decisiones preventivas como ventilación adecuada, cambios de espacio o restricciones temporales de actividad física. Esta situación refleja la necesidad de desarrollar una solución tecnológica asequible y adaptable. Por ello, surge la pregunta: ¿cómo puede implementarse un sistema de sensores IoT en entornos escolares urbanos para monitorear y reportar en tiempo real la calidad del aire, permitiendo una respuesta rápida ante condiciones críticas? Se plantea como hipótesis que la implementación de un sistema IoT autónomo y visualmente accesible permitirá a las instituciones educativas detectar condiciones nocivas de calidad del aire y reducir los riesgos de exposición prolongada entre sus estudiantes.
+
+## 5. EJEMPLOS DETALLADOS DE PLANTEAMIENTO DEL PROBLEMA
+
+### Ejemplo 1: Optimización del uso de fertilizantes mediante sensores en cultivos de café
+
+La agricultura de precisión ha sido reconocida como una estrategia clave para aumentar la eficiencia productiva y mitigar el impacto ambiental del sector agrícola. En Colombia, el cultivo de café representa no solo un renglón económico esencial, sino también un símbolo cultural y social profundamente arraigado. Sin embargo, miles de pequeños y medianos productores continúan utilizando métodos tradicionales, empíricos y poco eficientes para aplicar fertilizantes en sus cultivos. Esta situación genera un uso excesivo o deficiente de insumos que repercute en la calidad del producto, en la rentabilidad del proceso productivo y en la sostenibilidad del suelo.
+
+Este problema no solo compromete los ingresos de las familias cafeteras, sino que también incrementa su dependencia de insumos químicos y vulnerabilidad frente a la variabilidad climática. Además, el uso descontrolado de fertilizantes produce impactos negativos en las fuentes hídricas y contribuye a la degradación ambiental de zonas rurales. A pesar de que existen sensores de bajo costo capaces de medir condiciones del suelo en tiempo real, su aplicación en el contexto de pequeños caficultores ha sido limitada por barreras técnicas, económicas y de acceso a tecnologías.
+
+La frontera del conocimiento se encuentra en la falta de soluciones tecnológicas adaptadas a este contexto específico, capaces de traducir datos en decisiones concretas para el agricultor promedio. Se requiere, por tanto, el diseño de un sistema integral que combine sensores de humedad y nutrientes, plataformas móviles accesibles y modelos de recomendación adaptados a la realidad cafetera colombiana. La motivación de esta investigación surge de un trabajo de campo realizado en el municipio de Anserma (Caldas), donde se evidenció que los agricultores aplicaban fertilizantes en fechas fijas, sin considerar las necesidades reales del cultivo, ni las condiciones del clima o del suelo.
+
+Frente a esta situación, surge la siguiente pregunta de investigación: ¿cómo puede diseñarse un sistema basado en sensores de bajo costo que permita optimizar el uso de fertilizantes en cultivos de café, mejorando la eficiencia productiva y reduciendo el impacto ambiental? Se plantea como hipótesis que la integración de sensores IoT con modelos de recomendación agroclimáticos reducirá el uso innecesario de fertilizantes en al menos un 20 %, sin afectar la calidad ni el rendimiento de la cosecha.
+
+---
+
+### Ejemplo 2: Monitoreo de estructuras civiles mediante drones y visión por computador
+
+La supervisión de estructuras civiles como puentes, edificios y torres eléctricas es una actividad fundamental para garantizar la seguridad pública y prevenir desastres estructurales. Sin embargo, en muchas regiones del país, las labores de inspección siguen dependiendo de métodos manuales, costosos y poco frecuentes, lo cual incrementa el riesgo de fallos no detectados a tiempo. La falta de una estrategia preventiva y automatizada en el mantenimiento de infraestructura crítica representa una amenaza latente para la vida de los ciudadanos y la estabilidad económica de las zonas urbanas e industriales.
+
+A pesar de que algunas ciudades han comenzado a implementar tecnologías para la inspección remota, estas soluciones suelen ser costosas, difíciles de escalar o dependientes de condiciones climáticas óptimas. Además, muchas de ellas requieren operadores altamente especializados y no incorporan herramientas de análisis automatizado. La situación se agrava en municipios intermedios que no cuentan con presupuesto suficiente para realizar inspecciones periódicas ni adquirir equipos sofisticados. El colapso reciente de una estructura vial en una zona industrial del Valle del Cauca, documentado en informes de la ANI (2022), expuso las consecuencias de este tipo de negligencia tecnológica.
+
+Actualmente, existe una brecha tecnológica significativa en el uso combinado de drones y visión por computador para realizar inspecciones autónomas de estructuras. Esta frontera del conocimiento requiere del desarrollo de algoritmos robustos que detecten grietas, corrosión o desplazamientos con precisión, incluso en condiciones adversas. El enfoque de este trabajo se basa en el uso de redes neuronales convolucionales entrenadas con imágenes reales de estructuras deterioradas, capturadas mediante drones de bajo costo. La motivación surge de una experiencia de laboratorio en la que se demostró que un sistema de clasificación de imágenes pudo identificar daños superficiales en materiales metálicos con una precisión del 87 %, abriendo la posibilidad de adaptar esta tecnología a escenarios reales.
+
+En este contexto, la pregunta de investigación que se formula es: ¿cómo puede diseñarse un sistema autónomo de inspección estructural que integre drones y algoritmos de visión por computador para detectar daños físicos en estructuras civiles con alta precisión y bajo costo? Se plantea como hipótesis que la integración de imágenes aéreas con algoritmos de aprendizaje profundo permitirá reducir significativamente los tiempos de inspección y mejorar la detección temprana de fallos estructurales.
+
+### Ejemplo 3: Plataforma de seguimiento académico para instituciones rurales sin conectividad constante
+
+El avance de las tecnologías digitales ha transformado la gestión académica en instituciones educativas de zonas urbanas, permitiendo una mayor trazabilidad de notas, asistencia y desempeño estudiantil. No obstante, estas mejoras no han alcanzado con la misma intensidad a las escuelas rurales, donde la conectividad es limitada o intermitente, y los recursos tecnológicos son escasos. Esta situación profundiza las brechas en calidad educativa, dificulta la toma de decisiones pedagógicas oportunas y reduce la posibilidad de realizar un acompañamiento académico personalizado a los estudiantes.
+
+Muchos docentes rurales deben registrar la información académica manualmente y transcribirla cuando logran acceso a internet, lo cual aumenta su carga laboral y propicia errores. Además, los directivos carecen de datos actualizados para identificar casos de bajo rendimiento o riesgo de deserción, lo que debilita la capacidad institucional de intervenir a tiempo. La revisión de los sistemas disponibles muestra que la mayoría requieren conexión constante o servidores dedicados, lo que los hace inviable en estos contextos. Según datos del Ministerio de Educación (2023), más del 40 % de las instituciones rurales del país no cuentan con infraestructura digital suficiente para implementar plataformas en línea.
+
+La frontera del conocimiento se ubica en el desarrollo de soluciones offline que puedan funcionar de manera autónoma, sincronizar datos cuando haya conectividad disponible y adaptarse a la infraestructura básica de las instituciones rurales. Esta investigación plantea el uso de aplicaciones móviles ligeras y bases de datos locales sincronizables, con interfaces simplificadas para docentes. La motivación surgió a partir de una intervención docente en el corregimiento de San Lorenzo (Antioquia), donde se evidenció la ausencia total de herramientas digitales para seguimiento académico, a pesar del interés de los maestros por sistematizar su trabajo.
+
+En este marco, la pregunta de investigación es: ¿cómo puede desarrollarse una plataforma académica offline y sincronizable que facilite el seguimiento de notas, asistencia y observaciones en instituciones rurales sin acceso continuo a internet? Se formula como hipótesis que el diseño de una aplicación móvil de uso local, con sincronización automática y arquitectura ligera, permitirá reducir los errores de registro y mejorar la disponibilidad de información académica en entornos rurales.
+
+Muy bien. A continuación te presento la **Sección 7: Recomendaciones finales**, que cierra la guía con una serie de consejos prácticos y sugerencias para que los estudiantes revisen, corrijan y fortalezcan su redacción del planteamiento del problema antes de entregarlo. Esta sección puede servir también como rúbrica informal o lista de verificación.
+
+## 6. RECOMENDACIONES FINALES
+
+Antes de dar por terminado el planteamiento del problema, es importante realizar una revisión crítica del texto para asegurar que cumpla con los criterios académicos, argumentativos y metodológicos establecidos en esta guía. A continuación, se presentan una serie de recomendaciones prácticas que pueden servir como lista de verificación:
+
+1. **Verifica que el texto tenga un hilo conductor claro**, que conduzca desde el contexto general hasta el problema específico, sin saltos abruptos ni repeticiones innecesarias.
+
+2. **Asegúrate de haber utilizado una clave negativa**, es decir, que se exponga claramente una situación problemática, una carencia, una deficiencia o una necesidad no resuelta.
+
+3. **Evita el uso de títulos, subtítulos o numeraciones internas** dentro del planteamiento; todo debe presentarse como un cuerpo textual continuo, con buena cohesión entre párrafos.
+
+4. **Incluye conectores lógicos y transiciones adecuadas** entre ideas y párrafos para guiar al lector a lo largo de la argumentación.
+
+5. **Identifica claramente la frontera del conocimiento**, es decir, aquello que no se ha hecho, no se ha resuelto o no se ha estudiado en el contexto específico de tu investigación.
+
+6. **Menciona de manera explícita el enfoque metodológico o tecnológico** que se propone utilizar, y justifica por qué es pertinente para abordar el problema identificado.
+
+7. **Agrega una breve motivación personal del autor o del equipo investigador**, basada en observaciones, experiencia profesional o resultados preliminares.
+
+8. **Cierra el texto con una pregunta de investigación bien formulada** y una **hipótesis fundamentada**, que sea coherente con todo el planteamiento anterior.
+
+9. **Apoya tus afirmaciones con datos actualizados y fuentes confiables**, preferiblemente publicadas entre 2020 y la fecha actual. Utiliza normas de citación reconocidas.
+
+10. **Evita ambigüedades, frases vagas o afirmaciones sin evidencia.** Cuando identifiques una expresión poco clara, reescríbela como una idea completa, precisa y justificada.
+
+11. **Solicita retroalimentación externa antes de entregar la versión final.** A veces, un lector externo puede identificar debilidades o vacíos argumentativos que no son visibles para quien escribe.
+
+12. **Revisa ortografía, gramática y redacción académica.** Una redacción descuidada puede debilitar la solidez del argumento, incluso si el contenido técnico es válido.
+
+
+Redactar un buen planteamiento del problema es una tarea que exige reflexión, investigación, y claridad en los objetivos. Esta guía ha sido diseñada para acompañar ese proceso y garantizar que cada estudiante pueda construir un texto coherente, pertinente y científicamente fundamentado, que sirva de base sólida para el desarrollo de su proyecto de investigación o de desarrollo tecnológico.
 
