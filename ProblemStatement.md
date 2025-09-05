@@ -76,10 +76,6 @@ Cuando no se entiende bien un problema, es común proponer soluciones sin susten
 
 > No se puede resolver correctamente lo que no se entiende con profundidad.
 
-En conclusión, el planteamiento del problema no es un requisito formal, sino una **herramienta clave para garantizar la calidad, pertinencia y efectividad de cualquier investigación o desarrollo en ingeniería**.
-
-Gracias por la aclaración. A continuación te presento la redacción completa de la nueva **Sección 3. Lineamientos para la redacción del planteamiento del problema**, con un estilo académico, claro, sin emojis, y aplicando cada uno de los criterios que mencionaste:
-
 ## 3. LINEAMIENTOS PARA LA REDACCIÓN DEL PLANTEAMIENTO DEL PROBLEMA
 
 Redactar un planteamiento del problema no solo requiere conocer su estructura lógica, sino también aplicar ciertos principios de redacción académica que aseguren claridad, coherencia y rigurosidad. A continuación, se presentan los principales lineamientos que deben ser considerados al momento de escribir esta sección:
@@ -191,8 +187,6 @@ Este problema no solo compromete los ingresos de las familias cafeteras, sino qu
 La frontera del conocimiento se encuentra en la falta de soluciones tecnológicas adaptadas a este contexto específico, capaces de traducir datos en decisiones concretas para el agricultor promedio. Se requiere, por tanto, el diseño de un sistema integral que combine sensores de humedad y nutrientes, plataformas móviles accesibles y modelos de recomendación adaptados a la realidad cafetera colombiana. La motivación de esta investigación surge de un trabajo de campo realizado en el municipio de Anserma (Caldas), donde se evidenció que los agricultores aplicaban fertilizantes en fechas fijas, sin considerar las necesidades reales del cultivo, ni las condiciones del clima o del suelo.
 
 Frente a esta situación, surge la siguiente pregunta de investigación: ¿cómo puede diseñarse un sistema basado en sensores de bajo costo que permita optimizar el uso de fertilizantes en cultivos de café, mejorando la eficiencia productiva y reduciendo el impacto ambiental? Se plantea como hipótesis que la integración de sensores IoT con modelos de recomendación agroclimáticos reducirá el uso innecesario de fertilizantes en al menos un 20 %, sin afectar la calidad ni el rendimiento de la cosecha.
-
----
 
 ### Ejemplo 2: Monitoreo de estructuras civiles mediante drones y visión por computador
 
