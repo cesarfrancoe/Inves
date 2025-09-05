@@ -85,7 +85,7 @@ Redactar un planteamiento del problema no solo requiere conocer su estructura l�
 El planteamiento del problema debe enfocarse en aquello que **está mal, hace falta o necesita ser resuelto**. En lugar de enunciar una situación deseable o una solución anticipada, se debe exponer una carencia, un obstáculo o una disfuncionalidad real. Esta clave negativa permite evidenciar la necesidad de investigar o desarrollar una solución tecnológica.
 
 > Ejemplo incorrecto: Muchas personas utilizan aplicaciones móviles para cuidar su salud.
-> Ejemplo correcto: Muchas personas carecen de herramientas digitales personalizadas que les permitan monitorear su salud en tiempo real y tomar decisiones informadas.
+> Ejemplo correcto: La falta de herramientas digitales personalizadas impide a las personas monitorear su salud en tiempo real y tomar decisiones informadas.
 
 ### Emplea un tono académico claro y argumentado
 
@@ -123,6 +123,8 @@ El texto debe cerrar con una **pregunta de investigación clara, específica y a
 
 > Pregunta de investigación: ¿Cómo puede optimizarse el uso de fertilizantes en cultivos de café mediante un sistema basado en sensores de bajo costo y análisis en tiempo real?
 > Hipótesis: La implementación de sensores de suelo y un sistema de análisis automático permitirá reducir el uso de fertilizantes sin afectar el rendimiento del cultivo en zonas rurales de clima templado.
+
+Este ejemplo es ideal porque la pregunta es **específica y abierta** (no se puede responder con un sí o un no), y la hipótesis es **medible y testable**. Es crucial que la hipótesis no sea una simple suposición, sino una declaración que se pueda probar o refutar a través de la investigación.
 
 ### Cita fuentes confiables y recientes
 
@@ -175,6 +177,8 @@ En esta parte debe evidenciarse la brecha de conocimiento o desarrollo tecnológ
 Este es el núcleo del planteamiento. Aquí debe aparecer claramente el problema específico que se abordará, junto con tres elementos clave: la **motivación o interpretación del autor**, la **pregunta de investigación** y una **hipótesis fundamentada**.
 
 > Durante una estancia en el colegio X, ubicado en una zona de alta contaminación vehicular, se observó que los docentes desconocen los niveles reales de calidad del aire al interior de las aulas, lo que impide tomar decisiones preventivas como ventilación adecuada, cambios de espacio o restricciones temporales de actividad física. Esta situación refleja la necesidad de desarrollar una solución tecnológica asequible y adaptable. Por ello, surge la pregunta: ¿cómo puede implementarse un sistema de sensores IoT en entornos escolares urbanos para monitorear y reportar en tiempo real la calidad del aire, permitiendo una respuesta rápida ante condiciones críticas? Se plantea como hipótesis que la implementación de un sistema IoT autónomo y visualmente accesible permitirá a las instituciones educativas detectar condiciones nocivas de calidad del aire y reducir los riesgos de exposición prolongada entre sus estudiantes.
+
+La clave para que el embudo invertido funcione es la **cohesión**. Los diferentes niveles de análisis (social, económico, ambiental, técnico) no deben sentirse como secciones separadas, sino como una narrativa que se contrae gradualmente. Utiliza **conectores lógicos** para guiar al lector, demostrando cómo un problema se deriva del anterior hasta llegar al núcleo de tu investigación.
 
 ## 5. EJEMPLOS DETALLADOS DE PLANTEAMIENTO DEL PROBLEMA
 
@@ -235,6 +239,8 @@ Antes de dar por terminado el planteamiento del problema, es importante realizar
 11. **Solicita retroalimentación externa antes de entregar la versión final.** A veces, un lector externo puede identificar debilidades o vacíos argumentativos que no son visibles para quien escribe.
 
 12. **Revisa ortografía, gramática y redacción académica.** Una redacción descuidada puede debilitar la solidez del argumento, incluso si el contenido técnico es válido.
+    
+13. **Lee tu texto en voz alta**. Esto te ayudará a identificar frases confusas, transiciones que no fluyen bien o repeticiones innecesarias. Si suena bien al decirlo, es probable que se lea bien.
 
 
 Redactar un buen planteamiento del problema es una tarea que exige reflexión, investigación, y claridad en los objetivos. Esta guía ha sido diseñada para acompañar ese proceso y garantizar que cada estudiante pueda construir un texto coherente, pertinente y científicamente fundamentado, que sirva de base sólida para el desarrollo de su proyecto de investigación o de desarrollo tecnológico.
