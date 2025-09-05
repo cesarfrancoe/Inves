@@ -144,7 +144,7 @@ Es fundamental utilizar **fuentes académicas confiables**, como artículos cien
 
 ### Usa citas textuales de forma estratégica
 
-Si bien debes basar tus afirmaciones en la evidencia de otros autores, el planteamiento del problema es tu propia interpretación y argumentación del problema. Por lo tanto, evita el uso excesivo de citas textuales o directas. Solo debes utilizarlas cuando la frase del autor sea particularmente relevante, contundente o difícil de parafrasear sin perder su significado original. En cualquier otro caso, es preferible parafrasear y citar correctamente la fuente.
+Si bien debes basar tus afirmaciones en la evidencia de otros autores, el planteamiento del problema es una interpretación y argumentación propias de quien desarrolla la investigación. Por lo tanto, evita el uso excesivo de citas textuales o directas. Solo debes utilizarlas cuando la frase del autor sea particularmente relevante, contundente o difícil de parafrasear sin perder su significado original. En cualquier otro caso, es preferible parafrasear y citar correctamente la fuente.
 
 > Ejemplo de uso correcto: Un reciente informe de la OMS (2024) afirma que "la contaminación atmosférica es un problema de salud pública de primera línea en las ciudades de América Latina", lo que refuerza la necesidad de una investigación en este contexto.
 
@@ -247,16 +247,16 @@ Antes de dar por terminado el planteamiento del problema, es importante realizar
 
 8. **Cierra el texto con una pregunta de investigación bien formulada** y una **hipótesis fundamentada**, que sea coherente con todo el planteamiento anterior.
 
-9. **Apoya tus afirmaciones con datos actualizados y fuentes confiables**, preferiblemente publicadas entre 2020 y la fecha actual. Utiliza normas de citación reconocidas.
+9. **Apoya tus afirmaciones con datos actualizados y fuentes confiables**, preferiblemente publicadas en los últimos cinco años. Se deben aplicar normas de citación reconocidas.
 
 10. **Evita ambigüedades, frases vagas o afirmaciones sin evidencia.** Cuando identifiques una expresión poco clara, reescríbela como una idea completa, precisa y justificada.
 
-11. **Solicita retroalimentación externa antes de entregar la versión final.** A veces, un lector externo puede identificar debilidades o vacíos argumentativos que no son visibles para quien escribe.
+11. **Es recomendable solicitar retroalimentación externa antes de finalizar la redacción.** A veces, un lector externo puede identificar debilidades o vacíos argumentativos que no son visibles para quien escribe.
 
 12. **Revisa ortografía, gramática y redacción académica.** Una redacción descuidada puede debilitar la solidez del argumento, incluso si el contenido técnico es válido.
     
 13. **Lee tu texto en voz alta**. Esto te ayudará a identificar frases confusas, transiciones que no fluyen bien o repeticiones innecesarias. Si suena bien al decirlo, es probable que se lea bien.
 
 
-Redactar un buen planteamiento del problema es una tarea que exige reflexión, investigación, y claridad en los objetivos. Esta guía ha sido diseñada para acompañar ese proceso y garantizar que cada estudiante pueda construir un texto coherente, pertinente y científicamente fundamentado, que sirva de base sólida para el desarrollo de su proyecto de investigación o de desarrollo tecnológico.
+Redactar un buen planteamiento del problema es una tarea que exige reflexión, investigación, y claridad en los objetivos. Esta guía ha sido diseñada para acompañar ese proceso y garantizar que quien redacte un planteamiento pueda construir un texto coherente, pertinente y científicamente fundamentado, que sirva de base sólida para el desarrollo de su proyecto de investigación o de desarrollo tecnológico.
 
