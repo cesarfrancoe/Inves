@@ -264,7 +264,7 @@ Aquí tienes el **Anexo 1 completo**, con la lista de chequeo en formato de list
 
 ---
 
-## Anexo 1: Prompt de verificación para revizar un planteamiento del problema según
+## Anexo 1: Prompt de verificación para revizar un planteamiento del problema
 
 ### Prompt sugerido
 
