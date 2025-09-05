@@ -204,8 +204,6 @@ La frontera del conocimiento se ubica en el desarrollo de soluciones offline que
 
 En este marco, la pregunta de investigación es: ¿cómo puede desarrollarse una plataforma académica offline y sincronizable que facilite el seguimiento de notas, asistencia y observaciones en instituciones rurales sin acceso continuo a internet? Se formula como hipótesis que el diseño de una aplicación móvil de uso local, con sincronización automática y arquitectura ligera, permitirá reducir los errores de registro y mejorar la disponibilidad de información académica en entornos rurales.
 
-Muy bien. A continuación te presento la **Sección 7: Recomendaciones finales**, que cierra la guía con una serie de consejos prácticos y sugerencias para que los estudiantes revisen, corrijan y fortalezcan su redacción del planteamiento del problema antes de entregarlo. Esta sección puede servir también como rúbrica informal o lista de verificación.
-
 ## 6. RECOMENDACIONES FINALES
 
 Antes de dar por terminado el planteamiento del problema, es importante realizar una revisión crítica del texto para asegurar que cumpla con los criterios académicos, argumentativos y metodológicos establecidos en esta guía. A continuación, se presentan una serie de recomendaciones prácticas que pueden servir como lista de verificación:
