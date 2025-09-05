@@ -1,5 +1,15 @@
 # GUÍA PARA LA REDACCIÓN DEL PLANTEAMIENTO DEL PROBLEMA
 
+## Tabla de contenido
+
+1. [¿Qué es el planteamiento del problema?](#1-qué-es-el-planteamiento-del-problema)
+2. [Importancia del planteamiento del problema](#2-importancia-del-planteamiento-del-problema)
+3. [Lineamientos para la redacción del planteamiento del problema](#3-lineamientos-para-la-redacción-del-planteamiento-del-problema)
+4. [Estructura del planteamiento del problema (enfoque de embudo invertido)](#4-estructura-del-planteamiento-del-problema-enfoque-de-embudo-invertido)
+5. [Ejemplos detallados de planteamiento del problema](#5-ejemplos-detallados-de-planteamiento-del-problema)
+6. [Recomendaciones finales](#6-recomendaciones-finales)
+
+
 ## 1. ¿QUÉ ES EL PLANTEAMIENTO DEL PROBLEMA?
 
 El **planteamiento del problema** es una sección fundamental en todo proyecto de investigación o desarrollo tecnológico. Su propósito es **definir de manera clara, lógica y argumentada la situación que se desea abordar**, justificando su relevancia y delimitando el alcance del estudio.
