@@ -74,7 +74,7 @@ Gracias por la aclaración. A continuación te presento la redacción completa d
 
 Redactar un planteamiento del problema no solo requiere conocer su estructura lógica, sino también aplicar ciertos principios de redacción académica que aseguren claridad, coherencia y rigurosidad. A continuación, se presentan los principales lineamientos que deben ser considerados al momento de escribir esta sección:
 
-### 3.1 Usa una clave negativa
+### Usa una clave negativa
 
 El planteamiento del problema debe enfocarse en aquello que **está mal, hace falta o necesita ser resuelto**. En lugar de enunciar una situación deseable o una solución anticipada, se debe exponer una carencia, un obstáculo o una disfuncionalidad real. Esta clave negativa permite evidenciar la necesidad de investigar o desarrollar una solución tecnológica.
 
