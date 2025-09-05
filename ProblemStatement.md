@@ -260,3 +260,49 @@ Antes de dar por terminado el planteamiento del problema, es importante realizar
 
 Redactar un buen planteamiento del problema es una tarea que exige reflexión, investigación, y claridad en los objetivos. Esta guía ha sido diseñada para acompañar ese proceso y garantizar que quien redacte un planteamiento pueda construir un texto coherente, pertinente y científicamente fundamentado, que sirva de base sólida para el desarrollo de su proyecto de investigación o de desarrollo tecnológico.
 
+Aquí tienes el **Anexo 1 completo**, con la lista de chequeo en formato de lista (no tabla), redactado según todos los ajustes solicitados:
+
+---
+
+## Anexo 1: Prompt de verificación para evaluar un planteamiento del problema según la guía
+
+### Prompt sugerido
+
+> Evalúa el siguiente texto y verifica si cumple con los criterios establecidos para una correcta redacción de un planteamiento del problema, según la guía entregada. Devuelve una lista de chequeo detallada, e indica para cada ítem:
+>
+> * Cumplimiento: Sí / No / Parcial
+> * Justificación: Explica brevemente si el ítem está logrado, por qué y cómo puede mejorarse en caso negativo.
+> * Referencia textual: Incluye la frase o párrafo exacto donde se evidencia el cumplimiento (o la omisión).
+>
+> **Adicionalmente, revisa todas las citas incluidas en el texto**:
+>
+> 1. Identifica todas las citas y distingue entre citas textuales y parafraseadas.
+> 2. Indica si cada cita:
+>    * Tiene una referencia completa y actualizada (últimos cinco años).
+>    * Está correctamente parafraseada o presenta riesgo de plagio accidental.
+> 3. Si es necesario, solicita el archivo o fuente original para comparación.
+> 4. Señala si alguna cita requiere reformulación o mejor integración al argumento.
+
+---
+
+### Lista de chequeo para evaluar el planteamiento del problema
+
+1. ¿El texto sigue la estructura del **embudo invertido**, desde el contexto general hasta el problema específico?
+2. ¿Incluye claramente las **problemáticas social, económica, ambiental, técnica y de investigación aplicada**, según sea pertinente?
+3. ¿El problema está formulado en **clave negativa** (lo que falta, está mal o necesita ser resuelto)?
+4. ¿Se emplea un **tono académico claro, formal y argumentado**, sin expresiones coloquiales?
+5. ¿Se **evitan verdades absolutas** y **negaciones tajantes** (siempre, nunca, nadie, todos)?
+6. ¿Se usan **conectores lógicos** entre párrafos para lograr cohesión y fluidez?
+7. ¿No se usan **títulos ni numeraciones internas** dentro del cuerpo del planteamiento?
+8. ¿Se identifica de forma explícita la **frontera del conocimiento** o brecha tecnológica?
+9. ¿Se menciona el **enfoque metodológico o técnico** propuesto (tecnología, herramienta, modelo)?
+10. ¿Incluye una **motivación o interpretación personal** del autor, basada en experiencia o evidencia observada?
+11. ¿Finaliza con una **pregunta de investigación** bien formulada?
+12. ¿Incluye una **hipótesis clara, medible y coherente** con el problema planteado?
+13. ¿Las fuentes citadas son **académicas, confiables y actualizadas** (últimos cinco años)?
+14. ¿Las **citas textuales y parafraseadas** están bien diferenciadas y correctamente redactadas?
+15. ¿No hay **ambigüedades, repeticiones ni frases vagas**?
+16. ¿El texto tiene un **hilo conductor lógico y argumentativo** sin saltos ni vacíos?
+17. ¿Se han evitado **redundancias** innecesarias?
+18. ¿El texto evidencia una **coherencia entre la problemática y la solución que se propone** en otros apartados del proyecto?
+
