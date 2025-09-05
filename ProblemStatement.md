@@ -264,28 +264,26 @@ Aquí tienes el **Anexo 1 completo**, con la lista de chequeo en formato de list
 
 ---
 
-## Anexo 1: Prompt de verificación para evaluar un planteamiento del problema según la guía
+## Anexo 1: Prompt de verificación para revizar un planteamiento del problema según
 
 ### Prompt sugerido
 
-> Evalúa el siguiente texto y verifica si cumple con los criterios establecidos para una correcta redacción de un planteamiento del problema, según la guía entregada. Devuelve una lista de chequeo detallada, e indica para cada ítem:
->
-> * Cumplimiento: Sí / No / Parcial
-> * Justificación: Explica brevemente si el ítem está logrado, por qué y cómo puede mejorarse en caso negativo.
-> * Referencia textual: Incluye la frase o párrafo exacto donde se evidencia el cumplimiento (o la omisión).
->
-> **Adicionalmente, revisa todas las citas incluidas en el texto**:
->
-> 1. Identifica todas las citas y distingue entre citas textuales y parafraseadas.
-> 2. Indica si cada cita:
->    * Tiene una referencia completa y actualizada (últimos cinco años).
->    * Está correctamente parafraseada o presenta riesgo de plagio accidental.
-> 3. Si es necesario, solicita el archivo o fuente original para comparación.
-> 4. Señala si alguna cita requiere reformulación o mejor integración al argumento.
+Evalúa el siguiente texto y verifica si cumple con los criterios establecidos para una correcta redacción de un planteamiento del problema, según la guía entregada. Devuelve una lista de chequeo detallada, e indica para cada ítem:
 
----
+Cumplimiento: Sí / No / Parcial
+Justificación: Explica brevemente si el ítem está logrado, por qué y cómo puede mejorarse en caso negativo.
+Referencia textual: Incluye la frase o párrafo exacto donde se evidencia el cumplimiento (o la omisión).
 
-### Lista de chequeo para evaluar el planteamiento del problema
+Adicionalmente, revisa todas las citas incluidas en el texto:
+
+1. Identifica todas las citas y distingue entre citas textuales y parafraseadas.
+2. Indica si cada cita:
+   * Tiene una referencia completa y actualizada (últimos cinco años).
+   * Está correctamente parafraseada o presenta riesgo de plagio accidental.
+3. Si es necesario, solicita el archivo o fuente original para comparación.
+4. Señala si alguna cita requiere reformulación o mejor integración al argumento.
+
+Lista de chequeo para evaluar el planteamiento del problema:
 
 1. ¿El texto sigue la estructura del **embudo invertido**, desde el contexto general hasta el problema específico?
 2. ¿Incluye claramente las **problemáticas social, económica, ambiental, técnica y de investigación aplicada**, según sea pertinente?
