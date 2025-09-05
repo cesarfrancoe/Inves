@@ -46,31 +46,31 @@ El planteamiento del problema es uno de los componentes más importantes en la f
 
 A continuación se describen las razones por las cuales esta sección es esencial:
 
-### 2.1 Define el punto de partida del proyecto
+### Define el punto de partida del proyecto
 
 Todo proceso investigativo inicia con la identificación de una **situación problemática concreta**. Si no se conoce claramente qué se quiere resolver o estudiar, es imposible diseñar objetivos, metodologías o estrategias de solución adecuadas.
 
 > Un problema mal planteado conduce inevitablemente a un proyecto mal orientado.
 
-### 2.2 Justifica la necesidad de investigar
+### Justifica la necesidad de investigar
 
 A través del planteamiento del problema se demuestra que la investigación **no es caprichosa ni redundante**, sino que responde a una **necesidad real y vigente**, respaldada por datos, estudios previos y contexto actual.
 
 > Esta justificación permite sustentar la viabilidad técnica, académica y social del proyecto.
 
-### 2.3 Permite delimitar el alcance de la investigación
+### Permite delimitar el alcance de la investigación
 
 Al describir el problema de forma precisa y concreta, se pueden establecer **límites claros** en cuanto a población, territorio, tiempo y variables involucradas. Esto evita generalizaciones innecesarias o esfuerzos dispersos.
 
 > Una buena delimitación facilita la planificación y ejecución del proyecto.
 
-### 2.4 Orienta la formulación de los objetivos
+### Orienta la formulación de los objetivos
 
 Los objetivos de investigación deben surgir directamente del problema planteado. Por eso, un planteamiento claro y estructurado permite definir **objetivos coherentes y alcanzables**, alineados con la naturaleza del problema.
 
 > Si el problema está bien formulado, los objetivos serán más precisos.
 
-### 2.5 Evita soluciones prematuras o equivocadas
+### Evita soluciones prematuras o equivocadas
 
 Cuando no se entiende bien un problema, es común proponer soluciones sin sustento, irrelevantes o mal enfocadas. El planteamiento permite **comprender las causas, consecuencias y actores** antes de diseñar cualquier intervención.
 
