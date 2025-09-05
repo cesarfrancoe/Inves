@@ -85,11 +85,20 @@ Redactar un planteamiento del problema no solo requiere conocer su estructura l�
 El planteamiento del problema debe enfocarse en aquello que **está mal, hace falta o necesita ser resuelto**. En lugar de enunciar una situación deseable o una solución anticipada, se debe exponer una carencia, un obstáculo o una disfuncionalidad real. Esta clave negativa permite evidenciar la necesidad de investigar o desarrollar una solución tecnológica.
 
 > Ejemplo incorrecto: Muchas personas utilizan aplicaciones móviles para cuidar su salud.
+
 > Ejemplo correcto: La falta de herramientas digitales personalizadas impide a las personas monitorear su salud en tiempo real y tomar decisiones informadas.
 
 ### Emplea un tono académico claro y argumentado
 
 Toda la redacción debe mantenerse en un registro formal, evitando el uso de opiniones sin fundamento, expresiones coloquiales o afirmaciones absolutas. Se debe utilizar un lenguaje técnico comprensible, fluido y bien estructurado, con un respaldo adecuado mediante datos, referencias y argumentos.
+
+### Evita verdades y negaciones absolutas
+
+Un planteamiento del problema se basa en la argumentación y la evidencia, no en la fe. Por lo tanto, debes evitar afirmaciones que no puedan ser discutidas o que cierren la posibilidad de un debate. Palabras como "siempre", "nunca", "es la única forma", "es la peor situación" deben ser usadas con cautela o preferiblemente eliminadas. En su lugar, utiliza expresiones que den espacio a la argumentación y la evidencia, como "a menudo", "generalmente", "tiende a", "en la mayoría de los casos".
+
+> Ejemplo incorrecto: La falta de dinero siempre es la causa del bajo rendimiento académico.
+
+> Ejemplo correcto: A menudo, la falta de recursos económicos contribuye al bajo rendimiento académico en entornos vulnerables.
 
 ### Conecta los párrafos mediante transiciones lógicas
 
@@ -132,6 +141,12 @@ Es fundamental utilizar **fuentes académicas confiables**, como artículos cien
 
 > Ejemplo: Según un estudio publicado en *Sensors* (González et al., 2022), el uso de sensores IoT en agricultura ha incrementado la eficiencia en más de un 30 % en regiones de América Latina.
 > 
+
+### Usa citas textuales de forma estratégica
+
+Si bien debes basar tus afirmaciones en la evidencia de otros autores, el planteamiento del problema es tu propia interpretación y argumentación del problema. Por lo tanto, evita el uso excesivo de citas textuales o directas. Solo debes utilizarlas cuando la frase del autor sea particularmente relevante, contundente o difícil de parafrasear sin perder su significado original. En cualquier otro caso, es preferible parafrasear y citar correctamente la fuente.
+
+> Ejemplo de uso correcto: Un reciente informe de la OMS (2024) afirma que "la contaminación atmosférica es un problema de salud pública de primera línea en las ciudades de América Latina", lo que refuerza la necesidad de una investigación en este contexto.
 
 ## 4. ESTRUCTURA DEL PLANTEAMIENTO DEL PROBLEMA (ENFOQUE DE EMBUDO INVERTIDO)
 
