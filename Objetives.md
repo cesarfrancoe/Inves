@@ -155,9 +155,4 @@ Además:
 * Evalúa si los objetivos reflejan de manera explícita el vínculo con el **planteamiento del problema**.
 * Asegúrate de que están redactados en infinitivo, son claros, medibles, alcanzables, pertinentes y no redundantes.
 
-### Revisión adicional de fuentes
-
-Si alguno de los objetivos incluye referencias a información externa o conceptualizaciones específicas:
-
-* Indica si es necesario solicitar el archivo original (artículo, informe, documento base) para contrastar la redacción con la fuente.
-* Verifica si la redacción corresponde a una **paráfrasis válida** o si se requiere mejorar la escritura para **evitar detección como plagio**.
+En el proximo mensaje compartiré el planteamiento del problema y los objetivos.
