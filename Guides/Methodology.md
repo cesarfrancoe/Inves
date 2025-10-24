@@ -438,4 +438,54 @@ Adicionalmente, revisa la consistencia entre la Metodología y otras secciones d
 
 En el proximo mensaje compartiré el titulo, el planteamiento del problema, objetivos y metodología.
 
+---
 
+## Anexo 2: Recomendaciones para dimensionar la sección de Metodología en un ejercicio académico de pregrado ===
+
+En el contexto del curso *Investigación para la Ingeniería*, la sección de **Metodología** debe cumplir con criterios básicos de claridad, coherencia y justificación, sin extenderse innecesariamente. Dado que se trata de un ejercicio de aprendizaje para estudiantes de pregrado, se sugiere una versión condensada que facilite la apropiación de los conceptos sin sacrificar el rigor.
+
+### 1. Extensión sugerida
+
+* **Máximo 3 páginas**, a espacio sencillo o interlineado 1.5.
+* Puede incluir entre **4 y 6 párrafos organizados**, sin necesidad de subtítulos internos.
+* En caso de entregas más breves (como anteproyectos), puede sintetizarse en **una sola página bien estructurada**.
+
+### 2. Estructura reducida sugerida
+
+Se recomienda organizar la redacción de la metodología en **cuatro subapartados**, redactados como párrafos integrados:
+
+**a. Enfoque y tipo de investigación**
+
+* Indicar si es aplicada, exploratoria, descriptiva, etc.
+* Mencionar el enfoque (cuantitativo, cualitativo o mixto).
+* Explicar el método general elegido y justificar su pertinencia.
+
+**b. Diseño general del estudio**
+
+* Describir las etapas principales del proceso.
+* Incluir las actividades clave de cada fase.
+* Relacionar brevemente estas fases con los objetivos.
+
+**c. Técnicas e instrumentos**
+
+* Mencionar el tipo de información requerida.
+* Explicar cómo se recolectará (técnica) y con qué (instrumento).
+* Incluir una breve alusión a cómo se analizarán los datos.
+
+**d. Consideraciones éticas y recursos**
+
+* Indicar si se aplica consentimiento informado o protección de datos.
+* Mencionar brevemente los recursos humanos, técnicos y tecnológicos.
+* Identificar alguna limitación del estudio, si es pertinente.
+
+---
+
+### 3. Ejemplo condensado
+
+> Esta investigación es de tipo aplicada, con enfoque cuantitativo, ya que busca proponer una solución tecnológica a un problema real mediante la medición del rendimiento de diferentes técnicas de aprendizaje automático. Se adopta un enfoque de desarrollo tecnológico, dado que se construirá un prototipo funcional para ser evaluado en condiciones controladas.
+>
+> El estudio se desarrolla en tres etapas: (1) recolección de datos históricos de fallos, (2) desarrollo del modelo predictivo utilizando algoritmos de clasificación, y (3) validación del modelo mediante pruebas de precisión y análisis de resultados. Estas etapas están alineadas con los objetivos específicos del proyecto.
+>
+> La información se obtendrá mediante análisis de registros de fallas disponibles en una base de datos institucional. El modelo se desarrollará en Python usando bibliotecas como scikit-learn, y se evaluará mediante métricas de exactitud, precisión y sensibilidad. Los resultados serán comparados para seleccionar el modelo más eficiente.
+>
+> No se involucran seres humanos en la recolección de datos, pero se garantizará la confidencialidad de los registros. Se utilizarán recursos como equipos personales, entornos de desarrollo en la nube (Google Colab) y repositorios en GitHub. Esta investigación presenta como limitación el acceso restringido a datos de mayor diversidad, lo cual se mitigará con validación cruzada.
