@@ -397,13 +397,8 @@ Identificar y describir los recursos humanos, técnicos, tecnológicos y materia
 > Adicionalmente, se empleará la infraestructura de **Firebase Hosting** y **Firestore** para el alojamiento y gestión de la base de datos en tiempo real.
 
 ---
-Gracias por la indicación. A continuación presento el **Anexo 2: Prompt de verificación para revisar una sección de Metodología**, siguiendo el mismo formato utilizado en el ejemplo que compartiste para el planteamiento del problema.
 
----
-
-## === Anexo 1: Prompt de verificación para revisar la sección de Metodología ===
-
-### Prompt sugerido
+## Anexo 1: Prompt de verificación para revisar la sección de Metodología
 
 Evalúa el siguiente texto y verifica si cumple con los criterios establecidos para una correcta redacción de la sección de Metodología, según la guía entregada. Devuelve una lista de chequeo detallada e indica para cada ítem:
 
@@ -412,8 +407,6 @@ Evalúa el siguiente texto y verifica si cumple con los criterios establecidos p
 * **Referencia textual**: Incluye la frase o párrafo exacto donde se evidencia el cumplimiento (o la omisión).
 
 Adicionalmente, revisa la consistencia entre la Metodología y otras secciones del proyecto (objetivos, problema, resultados esperados), y señala posibles incoherencias o contradicciones.
-
----
 
 ### Lista de chequeo para evaluar la sección de Metodología:
 
