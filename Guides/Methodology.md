@@ -3,10 +3,10 @@
 ## Tabla de contenido
 
 1. **Enfoque metodológico**
-   1.1 Tipo de investigación
-   1.2 Enfoque del estudio
-   1.3 Método general
-   1.4 Justificación del enfoque
+   1.1 Tipo de investigación 
+   1.2 Enfoque del estudio 
+   1.3 Método general 
+   1.4 Justificación del enfoque  
 
 2. **Diseño de la investigación**
    2.1 Etapas del proyecto
