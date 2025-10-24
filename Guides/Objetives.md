@@ -132,8 +132,6 @@ Entender cómo comen los pacientes diabéticos.
 
 ## Anexo 1: Prompt de verificación para revisar los objetivos de un proyecto académico
 
-### Prompt sugerido
-
 Evalúa los siguientes objetivos (general y específicos) de un proyecto académico. Verifica si cumplen con los criterios establecidos **para una correcta redacción de objetivos**, según las recomendaciones metodológicas. Devuelve una **lista de chequeo detallada** para cada objetivo, e indica para cada ítem:
 
 * **Cumplimiento**: Sí / No / Parcial
