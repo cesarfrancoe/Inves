@@ -96,21 +96,21 @@ Desarrollar un sistema de monitoreo ambiental basado en sensores IoT y análisis
 
 ### Objetivo general
 
-✅ **Correcto:**  
+**Correcto:**  
 Desarrollar una aplicación móvil de apoyo nutricional para pacientes con diabetes tipo 2, utilizando aprendizaje automático para personalizar recomendaciones alimenticias.
 
-❌ **Incorrecto:**  
+**Incorrecto:**  
 Se desarrollará una app para los pacientes.  
 Entender cómo comen los pacientes diabéticos.
 
 ### Objetivos específicos
 
-✅ **Correctos:**  
+**Correctos:**  
 1. Diseñar la arquitectura de la aplicación móvil basada en criterios de usabilidad y seguridad.  
 2. Implementar algoritmos de clasificación para generar planes alimenticios personalizados.  
 3. Validar el desempeño del sistema mediante pruebas con usuarios reales y métricas de precisión.
 
-❌ **Incorrectos:**  
+**Incorrectos:**  
 - Conocer la alimentación de los pacientes diabéticos.  
 - Hacer una app que ayude con la comida.  
 - Diseñar e implementar y validar el sistema completo.
@@ -136,9 +136,9 @@ Entender cómo comen los pacientes diabéticos.
 
 Evalúa los siguientes objetivos (general y específicos) de un proyecto académico. Verifica si cumplen con los criterios establecidos **para una correcta redacción de objetivos**, según las recomendaciones metodológicas. Devuelve una **lista de chequeo detallada** para cada objetivo, e indica para cada ítem:
 
-* ✅ **Cumplimiento**: Sí / No / Parcial
-* 📝 **Justificación**: Breve explicación del porqué.
-* 🔍 **Referencia textual**: Cita el fragmento exacto del objetivo donde se evidencia el cumplimiento o la omisión.
+* **Cumplimiento**: Sí / No / Parcial
+* **Justificación**: Breve explicación del porqué.
+* **Referencia textual**: Cita el fragmento exacto del objetivo donde se evidencia el cumplimiento o la omisión.
 
 Si algún objetivo presenta:
 
@@ -154,6 +154,6 @@ Además:
 * Verifica que exista **coherencia lógica** entre los objetivos específicos y el objetivo general.
 * Revisa que **todos los objetivos puedan ser abordados metodológicamente** en el proyecto.
 * Evalúa si los objetivos reflejan de manera explícita el vínculo con el **planteamiento del problema**.
-* Asegúrate de que están redactados en infinitivo, son claros, medibles, alcanzables, pertinentes y no redundantes.
+* Asegúrate de que están redactados en que tengan la estructura recomendada (verbo en infinitivo + qué se va a hacer + cómo o con qué + para qué), son claros, medibles, alcanzables, pertinentes y no redundantes.
 
 En el proximo mensaje compartiré el planteamiento del problema y los objetivos.
