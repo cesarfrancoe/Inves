@@ -78,6 +78,9 @@
 
    7.5 Justificación de los recursos
 
+ 8. ** Cronograma **
+    
+
 ---
 
 ### 1. Enfoque metodológico
@@ -395,6 +398,50 @@ Identificar y describir los recursos humanos, técnicos, tecnológicos y materia
 > Se utilizarán **dispositivos móviles con sistema operativo Android** para pruebas de campo, así como **computadores personales** para el desarrollo y pruebas internas.
 >
 > Adicionalmente, se empleará la infraestructura de **Firebase Hosting** y **Firestore** para el alojamiento y gestión de la base de datos en tiempo real.
+
+---
+
+## 8. Cronograma de actividades
+
+**Objetivo de esta sección:**
+Visualizar de manera clara y ordenada la distribución temporal de las etapas del proyecto, facilitando el seguimiento y la planificación. Para proyectos reales, este cronograma se ajusta a las semanas académicas disponibles o al calendario institucional. Para ejercicios formativos, puede limitarse a una proyección general.
+
+---
+
+### ¿Qué se debe incluir?
+
+1. **Etapas o fases del proyecto**, alineadas con la metodología.
+2. **Actividades específicas** dentro de cada fase (opcional).
+3. **Duración estimada** en semanas o meses.
+4. **Formato visual**: tabla o diagrama de Gantt sencillo.
+
+---
+
+### Formato sugerido (tabla simple)
+
+| Fase / Actividad           | Semana 1 | Semana 2 | Semana 3 | Semana 4 | Semana 5 |
+| -------------------------- | -------- | -------- | -------- | -------- | -------- |
+| Recolección de información | X        | X        |          |          |          |
+| Desarrollo del prototipo   |          | X        | X        | X        |          |
+| Pruebas y validación       |          |          |          | X        | X        |
+| Análisis de resultados     |          |          |          |          | X        |
+
+> **Nota**: las semanas pueden ajustarse según la duración del curso o proyecto.
+
+---
+
+### Alternativa gráfica (diagrama de Gantt básico)
+
+Puedes sugerir a los estudiantes usar herramientas gratuitas como:
+
+* Excel o Google Sheets (con barras coloreadas)
+* Draw.io, Lucidchart, Canva (para diagramas visuales)
+* Plantillas automáticas de cronogramas en Word o PowerPoint
+
+### ¿Dónde incluirlo?
+
+* En trabajos **cortos**: puede ir como **última sección de la metodología**, titulada “Cronograma de actividades”.
+* En trabajos **formales o extensos**: se recomienda presentarlo como **anexo numerado** (por ejemplo, Anexo 4).
 
 ---
 
