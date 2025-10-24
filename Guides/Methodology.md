@@ -440,7 +440,7 @@ En el proximo mensaje compartiré el titulo, el planteamiento del problema, obje
 
 ---
 
-## Anexo 2: Recomendaciones para dimensionar la sección de Metodología en un ejercicio académico de pregrado ===
+## Anexo 2: Recomendaciones para dimensionar la sección de Metodología en un ejercicio académico de pregrado
 
 En el contexto del curso *Investigación para la Ingeniería*, la sección de **Metodología** debe cumplir con criterios básicos de claridad, coherencia y justificación, sin extenderse innecesariamente. Dado que se trata de un ejercicio de aprendizaje para estudiantes de pregrado, se sugiere una versión condensada que facilite la apropiación de los conceptos sin sacrificar el rigor.
 
