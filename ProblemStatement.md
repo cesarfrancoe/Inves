@@ -260,8 +260,6 @@ Antes de dar por terminado el planteamiento del problema, es importante realizar
 
 Redactar un buen planteamiento del problema es una tarea que exige reflexión, investigación, y claridad en los objetivos. Esta guía ha sido diseñada para acompañar ese proceso y garantizar que quien redacte un planteamiento pueda construir un texto coherente, pertinente y científicamente fundamentado, que sirva de base sólida para el desarrollo de su proyecto de investigación o de desarrollo tecnológico.
 
-Aquí tienes el **Anexo 1 completo**, con la lista de chequeo en formato de lista (no tabla), redactado según todos los ajustes solicitados:
-
 ---
 
 ## Anexo 1: Prompt de verificación para revizar un planteamiento del problema
