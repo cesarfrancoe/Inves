@@ -1,6 +1,51 @@
 ## Guía para redactar la sección de Metodología
 
-**Curso: Investigación para la Ingeniería**
+## Tabla de contenido
+
+1. **Enfoque metodológico**
+   1.1 Tipo de investigación
+   1.2 Enfoque del estudio
+   1.3 Método general
+   1.4 Justificación del enfoque
+
+2. **Diseño de la investigación**
+   2.1 Etapas del proyecto
+   2.2 Actividades por etapa
+   2.3 Relación con los objetivos
+   2.4 Duración estimada
+
+3. **Técnicas e instrumentos de recolección de información**
+   3.1 Tipo de información requerida
+   3.2 Técnicas utilizadas
+   3.3 Instrumentos aplicados
+   3.4 Población o fuentes de información
+   3.5 Justificación de las técnicas
+
+4. **Técnicas de análisis de la información**
+   4.1 Tipo de análisis
+   4.2 Herramientas utilizadas
+   4.3 Procedimientos de análisis
+   4.4 Relación con los objetivos
+
+5. **Aspectos éticos y consideraciones legales**
+   5.1 Consentimiento informado
+   5.2 Privacidad y confidencialidad
+   5.3 Uso de datos y cumplimiento normativo
+   5.4 Riesgos y medidas de mitigación
+
+6. **Limitaciones del estudio**
+   6.1 Limitaciones metodológicas
+   6.2 Restricciones técnicas
+   6.3 Condiciones contextuales
+   6.4 Alcance limitado
+   6.5 Medidas de mitigación
+
+7. **Recursos y herramientas requeridas**
+   7.1 Recursos humanos
+   7.2 Herramientas tecnológicas
+   7.3 Recursos materiales
+   7.4 Infraestructura digital
+   7.5 Justificación de los recursos
 
 ---
 
@@ -321,6 +366,52 @@ Identificar y describir los recursos humanos, técnicos, tecnológicos y materia
 > Adicionalmente, se empleará la infraestructura de **Firebase Hosting** y **Firestore** para el alojamiento y gestión de la base de datos en tiempo real.
 
 ---
+Gracias por la indicación. A continuación presento el **Anexo 2: Prompt de verificación para revisar una sección de Metodología**, siguiendo el mismo formato utilizado en el ejemplo que compartiste para el planteamiento del problema.
 
+---
+
+## === Anexo 1: Prompt de verificación para revisar la sección de Metodología ===
+
+### Prompt sugerido
+
+Evalúa el siguiente texto y verifica si cumple con los criterios establecidos para una correcta redacción de la sección de Metodología, según la guía entregada. Devuelve una lista de chequeo detallada e indica para cada ítem:
+
+* **Cumplimiento**: Sí / No / Parcial
+* **Justificación**: Explica brevemente si el ítem está logrado, por qué y cómo puede mejorarse en caso negativo.
+* **Referencia textual**: Incluye la frase o párrafo exacto donde se evidencia el cumplimiento (o la omisión).
+
+Adicionalmente, revisa la consistencia entre la Metodología y otras secciones del proyecto (objetivos, problema, resultados esperados), y señala posibles incoherencias o contradicciones.
+
+---
+
+### Lista de chequeo para evaluar la sección de Metodología:
+
+1. ¿Se explicita claramente el tipo de investigación (aplicada, descriptiva, exploratoria, etc.)?
+2. ¿Se indica el enfoque metodológico (cuantitativo, cualitativo o mixto) y se justifica adecuadamente?
+3. ¿Se menciona el método general (estudio de caso, desarrollo tecnológico, simulación, etc.) y su pertinencia?
+4. ¿El diseño del estudio está descrito en etapas o fases con lógica secuencial?
+5. ¿Las actividades dentro de cada etapa están bien especificadas?
+6. ¿Se incluye una relación clara entre las etapas del diseño y los objetivos del proyecto?
+7. ¿Se describen las técnicas de recolección de información utilizadas?
+8. ¿Se indican los instrumentos aplicados y su finalidad?
+9. ¿Se identifica claramente la población o fuentes de información?
+10. ¿Se justifica la elección de las técnicas e instrumentos utilizados?
+11. ¿Se describe cómo será analizada la información recolectada?
+12. ¿Se mencionan las herramientas o tecnologías para el análisis de datos?
+13. ¿Se explica la relación entre el análisis y los objetivos planteados?
+14. ¿Se abordan los aspectos éticos relevantes (consentimiento, confidencialidad, protección de datos)?
+15. ¿Se hace mención de la normatividad vigente en temas éticos (ej. Ley 1581 de 2012 en Colombia)?
+16. ¿Se identifican las limitaciones metodológicas, técnicas o contextuales del estudio?
+17. ¿Se proponen medidas para mitigar dichas limitaciones?
+18. ¿Se describen los recursos humanos, tecnológicos y materiales necesarios?
+19. ¿Las herramientas y recursos están justificados en función del tipo de estudio?
+20. ¿El texto mantiene coherencia con el problema, los objetivos y el enfoque del estudio?
+21. ¿Se emplea un tono académico claro, formal y preciso?
+22. ¿Se evita la inclusión de información irrelevante o imprecisa?
+23. ¿La sección está bien estructurada, sin ambigüedades ni repeticiones innecesarias?
+24. ¿Se utilizan conectores lógicos para dar cohesión al texto?
+25. ¿La Metodología permite replicar o validar el proceso descrito?
+
+En el proximo mensaje compartiré el titulo, el planteamiento del problema, objetivos y metodología.
 
 
