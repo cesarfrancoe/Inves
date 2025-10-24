@@ -78,7 +78,7 @@
 
    7.5 Justificación de los recursos
 
- 8. ** Cronograma **
+ 8. **Cronograma**
     
 
 ---
