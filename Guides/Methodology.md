@@ -3,48 +3,79 @@
 ## Tabla de contenido
 
 1. **Enfoque metodológico**
-   1.1 Tipo de investigación 
-   1.2 Enfoque del estudio 
-   1.3 Método general 
+   
+   1.1 Tipo de investigación
+   
+   1.2 Enfoque del estudio
+   
+   1.3 Método general
+   
    1.4 Justificación del enfoque  
 
 2. **Diseño de la investigación**
+
    2.1 Etapas del proyecto
+   
    2.2 Actividades por etapa
+   
    2.3 Relación con los objetivos
+   
    2.4 Duración estimada
 
 3. **Técnicas e instrumentos de recolección de información**
+
    3.1 Tipo de información requerida
+   
    3.2 Técnicas utilizadas
+   
    3.3 Instrumentos aplicados
+   
    3.4 Población o fuentes de información
+   
    3.5 Justificación de las técnicas
 
 4. **Técnicas de análisis de la información**
+
    4.1 Tipo de análisis
+
    4.2 Herramientas utilizadas
+
    4.3 Procedimientos de análisis
+
    4.4 Relación con los objetivos
 
 5. **Aspectos éticos y consideraciones legales**
+
    5.1 Consentimiento informado
+
    5.2 Privacidad y confidencialidad
+
    5.3 Uso de datos y cumplimiento normativo
+
    5.4 Riesgos y medidas de mitigación
 
 6. **Limitaciones del estudio**
+
    6.1 Limitaciones metodológicas
+
    6.2 Restricciones técnicas
+
    6.3 Condiciones contextuales
+
    6.4 Alcance limitado
+
    6.5 Medidas de mitigación
 
 7. **Recursos y herramientas requeridas**
+
    7.1 Recursos humanos
+
    7.2 Herramientas tecnológicas
+
    7.3 Recursos materiales
+
    7.4 Infraestructura digital
+
    7.5 Justificación de los recursos
 
 ---
