@@ -150,6 +150,7 @@ debes **sugerir cómo puede ser reescrito** de forma más precisa.
 
 Además:
 
+* Verifica que exista 1 objetivo general y 3 objetivos especificos.
 * Verifica que exista **coherencia lógica** entre los objetivos específicos y el objetivo general.
 * Revisa que **todos los objetivos puedan ser abordados metodológicamente** en el proyecto.
 * Evalúa si los objetivos reflejan de manera explícita el vínculo con el **planteamiento del problema**.
