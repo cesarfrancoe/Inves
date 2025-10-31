@@ -97,4 +97,4 @@ El artículo debe redactarse en un único documento continuo, sin saltos de pág
 * **Márgenes:** 2.5 cm en todos los lados.
 * **Alineación:** texto justificado.
 * **Figuras y tablas:** insertadas en el flujo del texto, numeradas consecutivamente y con título descriptivo.
-* **Archivo final:** formato `.pdf`.
+* **Archivo final:** crear y editar artículo en Overleaf (formato LaTeX) y exportarlo a `.pdf` para la entrega.
