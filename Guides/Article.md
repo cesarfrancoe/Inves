@@ -1,4 +1,4 @@
-## **Estructura del artículo científico (versión final para entrega)**
+## **Estructura del artículo científico**
 
 El artículo debe redactarse en un único documento continuo, sin saltos de página manuales, siguiendo el formato IMRyD (Introducción, Metodología, Resultados y Discusión). Todas las secciones deben aparecer en el orden establecido a continuación.
 
