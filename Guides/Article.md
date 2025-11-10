@@ -71,6 +71,19 @@ El artículo debe redactarse en un único documento continuo, sin saltos de pág
   * Proyecciones o líneas futuras de trabajo.
 * Debe incluir **al menos 4 referencias** adicionales para sustentar el análisis comparativo.
 
+**Nota:**
+En los trabajos de carácter formativo, donde los resultados son teóricos, simulados o esperados (y no provienen de una implementación o aplicación práctica), la sección de Discusión debe mantenerse, pero con un enfoque adaptado.
+
+En estos casos, es recomendable:
+
+* Analizar la coherencia entre los resultados esperados y los objetivos planteados.
+* Comparar los resultados obtenidos o proyectados con los reportados en otros estudios, apoyándose en fuentes científicas.
+* Reflexionar sobre las condiciones, recursos o etapas necesarias para llevar el trabajo a una validación práctica.
+* Identificar limitaciones del enfoque o del modelo teórico.
+* Proponer líneas futuras de investigación o aplicación que fortalezcan la viabilidad del estudio.
+
+El propósito de la discusión es fomentar la capacidad de interpretar, contrastar y proyectar los resultados, incluso cuando estos aún no han sido verificados en un entorno real.
+
 ### **8. Conclusiones**
 
 * Extensión: **250 a 400 palabras.**
